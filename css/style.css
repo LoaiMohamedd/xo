@@ -53,8 +53,8 @@ body{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-template-rows: repeat(3,1fr);
-    height: 370px;
-    width: 370px;
+    height: 340px;
+    width: 340px;
     margin: 30px auto;
     border: 2px solid black;
 }
