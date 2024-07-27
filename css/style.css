@@ -53,14 +53,14 @@ body{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-template-rows: repeat(3,1fr);
-    height: 400px;
-    width: 400px;
+    height: 370px;
+    width: 370px;
     margin: 30px auto;
     border: 2px solid black;
 }
 .box{
     cursor: pointer;
-    font-size: 2.5rem;
+    font-size: 2.3rem;
     font-weight: 700;
     border: 2px solid black;
 }
@@ -71,7 +71,7 @@ body{
     background-color: #ff2E63;
     padding: 10px 25px;
     border: none;
-    font-size: 2rem;
+    font-size: 1.8rem;
     border-radius: 5px;
     cursor: pointer;
     display: none;
@@ -81,5 +81,5 @@ body{
     background-color:darkolivegreen ;
 }
 #result{
-    font-size: 3rem;
+    font-size: 2.5rem;
 }
